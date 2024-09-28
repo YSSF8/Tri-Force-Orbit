@@ -5,7 +5,7 @@
 
 **Tri-Force Orbit** is an action-packed browser game where players navigate a dynamic environment, battle enemies, and utilize unique abilities to achieve high scores. Hosted on GitHub Pages, Tri-Force Orbit offers engaging gameplay with responsive controls and stunning visuals.
 
-[🎮 Play the game now!](https://yssf8.github.io/tri-force-orbit)
+[🎮 Play the game now!](https://yssf8.github.io/Tri-Force-Orbit)
 
 ---
 
