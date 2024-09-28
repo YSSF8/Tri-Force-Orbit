@@ -61,7 +61,7 @@ Tri-Force Orbit is built using the following technologies:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to improve **Tri-Force Orbit**, please follow these steps:
+Contributions are welcome! Feel free to improve **Tri-Force Orbit**.
 
 ## Credits
 
