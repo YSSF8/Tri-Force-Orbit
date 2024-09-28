@@ -86,7 +86,7 @@ canvas.addEventListener('mousedown', e => {
         // Proceed with shooting
         shootProjectile(e.clientX, e.clientY);
         const fire = new Audio('./assets/fire.wav');
-        fire.volume = 0.05;
+        fire.volume = 0.5;
         fire.play();
     
         // Start cooldown
