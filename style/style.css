@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+canvas {
+  display: block;
+}
+
+.side-buttons {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+.side-buttons button {
+  all: unset;
+  background-color: #333;
+  border-radius: 8px;
+  border: 5px solid #810f0f;
+  transform: scale(0.5);
+  padding: 8px;
+  cursor: pointer;
+}
+.side-buttons button.active {
+  border-color: #135f13;
+}/*# sourceMappingURL=style.css.map */
