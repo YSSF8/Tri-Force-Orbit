@@ -45,7 +45,7 @@ const FRAME_DURATION = 1000 / FPS;
 const musicBtn = document.getElementById('music');
 const music = new Audio('./assets/music.mp3');
 music.loop = true;
-music.volume = 0.1;
+music.volume = 0.5;
 let isMusic = false;
 
 musicBtn.addEventListener('click', () => {
